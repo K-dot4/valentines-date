@@ -26,6 +26,8 @@ body {
 
 #image-container {
     /* This container will hold the images */
+    display: flex;
+    justify-content: center;
 }
 
 #question {
